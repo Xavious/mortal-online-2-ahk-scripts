@@ -33,6 +33,8 @@ ControlSend, , {LButton Down}, Mortal Online 2
 ControlSend, , {LButton Up}, Mortal Online 2
 ```
 
-The first example is pushing down the `b` key, then releasing it. The second example is to show the syntax for the left mouse buttons. There is also `RButton` (right click) and `MButton` scroll wheel middle button. The full list of keys can be found here:
+The first example is pushing down the `b` key, then releasing it. The second example is to show the syntax for the left mouse buttons. There is also `RButton` (right click) and `MButton` scroll wheel middle button. You can even get as specific as `LControl`, `RControl`, `LAlt`, `RAlt`, `LShift`, `RShift` which correspond to Left/Right variations for the `ctrl`, `alt`, and `shift` keys. 
+
+The full list of programmable keys can be found here:
 
 https://www.autohotkey.com/docs/v1/KeyList.htm
