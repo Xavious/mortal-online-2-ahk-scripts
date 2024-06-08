@@ -3,6 +3,13 @@
 ## What is it?
 This is a small collection of AutoHotkey scripts for MO2. I've tried to document features in the actual script files, and I might spend some time doing that here one day ™
 
+## How do I even use these?
+- First, download AutoHotkey
+- Second, write your own script or download one. AutoHotkey scripts save as `.ahk` files and once you have the software installed your OS will recognize them.
+- Double click the file to run the script
+
+Note: Scripts run in the background and are pretty much invisible outside of the execution of their lines in whatever application they are directed towards. You can exit out of them by right+clicking the AHK icon for the script you're running in the bottom right of your desktop in the task bar.
+
 ## AutoHotkey Modifiers
 
 `^` - ctrl
