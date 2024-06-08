@@ -18,8 +18,8 @@ F5::
         ControlSend, , {d up}, Mortal Online 2
         Sleep, 1000 * 1.0
 
-        ;Cast 25 times
-        Loop 25 
+        ;Cast 15 times (1 time to charge, 1 time to cast)
+        Loop 30 
         {
             ControlSend, , {e}, Mortal Online 2
             Sleep, 1000 * 1.5
